@@ -22,7 +22,7 @@ const Pricing = () => {
                 expectations.
               </p>
               <p className="text-xl mb-4">
-                <strong>Price: $30</strong>
+                <strong>Price: $25</strong>
               </p>
             </div>
           </div>
@@ -48,7 +48,7 @@ const Pricing = () => {
                 business.
               </p>
               <p className="text-xl mb-4">
-                <strong>Price: $50 - $110/month</strong>
+                <strong>Price: $50 - $250/month</strong>
               </p>
             </div>
           </div>
@@ -72,7 +72,7 @@ const Pricing = () => {
                 strategy that helps you achieve success.
               </p>
               <p className="text-xl mb-4">
-                <strong>Price: $125-$325/month</strong>
+                <strong>Price: $250-$450/month</strong>
               </p>
             </div>
           </div>
