@@ -72,7 +72,7 @@ const Pricing = () => {
                 strategy that helps you achieve success.
               </p>
               <p className="text-xl mb-4">
-                <strong>Price: $250-$450/month</strong>
+                <strong>Price: $250-$500/month</strong>
               </p>
             </div>
           </div>
